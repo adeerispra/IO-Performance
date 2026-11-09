@@ -17,12 +17,12 @@ Use an environment authorized for load testing.
 
 ## Run
 
-To running rehearsal mode:
+Run rehearsal mode:
 ```bash
 bash run.sh --rehearsal
 ```
 
-To running loadtest mode :
+Run loadtest mode :
 
 ```bash
 bash run.sh --loadtest
