@@ -17,13 +17,12 @@ Use an environment authorized for load testing.
 
 ## Run
 
-From the `loadtest` directory:
-
+To running rehearsal mode:
 ```bash
 bash run.sh --rehearsal
 ```
 
-Validates setup and response checks with one GET Cart request.
+To running loadtest mode :
 
 ```bash
 bash run.sh --loadtest
